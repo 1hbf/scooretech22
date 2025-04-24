@@ -74,7 +74,7 @@ https://footballskill-production8.up.railway.app/analyze
 ## 🌐 رابط المنصة
 
 ```
-[https://score-tech.vercel.app](https://v0-score-tech-fjfuz4.vercel.app/)
+[https://scoretech22.vercel.app/]
 ```
 
 ---
